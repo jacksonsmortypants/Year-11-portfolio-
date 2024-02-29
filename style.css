@@ -1,3 +1,4 @@
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #a9aab1;
@@ -16,21 +17,31 @@
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #92d8ee;
+  background-color: #8ee4e4;
   color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #ffffff;
+  background-color: #3d3d3d;
   color:#000000;
 }
 
 body {
-  background-color: #84d5ee;
+  background-color: #8a9cec;
 }
 
 h1{font-size: xx-large;}
 h1{font: 900;}
 
-.project1{background-color: #a9aab1;}
+.project1{background-color: rgb(115, 211, 158);}
+
+li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #4c6c7e;
+  }
