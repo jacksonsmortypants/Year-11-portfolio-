@@ -17,7 +17,7 @@
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #8ee4e4;
+  background-color: #b2b4b4;
   color: black;
 }
 
@@ -28,13 +28,13 @@
 }
 
 body {
-  background-color: #8a9cec;
+  background-color: #888a8a;
 }
 
 h1{font-size: xx-large;}
 h1{font: 900;}
 
-.project1{background-color: rgb(115, 211, 158);}
+.project1{background-color: rgb(150, 147, 147);}
 
 li {
     float: left;
@@ -45,3 +45,15 @@ li {
     padding: 8px;
     background-color: #4c6c7e;
   }
+.Jackson{
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+  font-size: 60px;
+}
+.project1{
+  color: white;
+}
+
+
