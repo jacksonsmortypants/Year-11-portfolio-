@@ -55,5 +55,33 @@ h1 {
 .project1{
   color: white;
 }
-
-
+.sussy {
+  width: 300px;
+  border: 15px solid rgb(99, 100, 158);
+  padding: 50px;
+  margin: 20px;
+}
+.border2 {
+  width: 300px;
+  border: 15px solid rgb(99, 100, 158);
+  padding: 50px;
+  margin: 20px;
+}
+.overview{
+  font-size: 60px;
+}
+.requirements {
+  width: 500px;
+  border: 15px solid rgb(99, 100, 158);
+  padding: 50px;
+  margin: 20px;
+}
+.end{
+  font-size: 50px;
+}
+.req{
+  font-size: 50px;
+}
+.image{
+  width: 300px;
+}
