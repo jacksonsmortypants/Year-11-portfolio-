@@ -85,3 +85,9 @@ h1 {
 .image{
   width: 300px;
 }
+.imp{
+  width: 300px;
+  border: 15px solid rgb(99, 100, 158);
+  padding: 50px;
+  margin: 20px;
+}
